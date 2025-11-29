@@ -1,0 +1,5 @@
+{
+  "name": "NRI Institute of Technology Guntur Portal",
+  "description": "A comprehensive academic portal for NRIIT Guntur, featuring NBA/NAAC accreditation data, department profiles, faculty details, and student resources, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
